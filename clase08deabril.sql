@@ -157,3 +157,4 @@ select to_char(next_day((SYSDATE+2), 'WEDNESDAY'), 'dd day "de" Month "juega el 
 /*
 
 /*
+klfsaf
